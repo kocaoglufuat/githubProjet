@@ -1,5 +1,4 @@
 package deneme.pages;
 
-public class calısma {
-
+public class calısma3 {
 }
